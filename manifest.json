@@ -1,0 +1,22 @@
+{
+  "siteName": "Architect Studio",
+  "description": "Modern architectural design and planning.",
+  "hero": {
+    "title": "Modern Architecture",
+    "image": "https://images.unsplash.com/photo-1503387762-592deb58ef4e"
+  },
+  "projects": [
+    {
+      "name": "Glass Tower",
+      "image": "image-512"
+    },
+    {
+      "name": "Minimalist House",
+      "image": ""
+    },
+    {
+      "name": "Urban Office",
+      "image": "image-192"
+    }
+  ]
+}
